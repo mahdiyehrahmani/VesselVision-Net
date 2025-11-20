@@ -25,9 +25,7 @@ Educational and simulation-based tools for radiologists and surgeons
 
 Citation
 
-Please cite the following paper if you use this code or data:
-
-> Rahmani, M., Ahmadian, A., et al. "VesselVision-Net: An AI-Driven Transformer Framework for Hepatic Surgery Pre-Planning using Liver Vessel Segmentation in Contrast-Enhanced CT Images". [Under review – update accordingly]
+...
 
 Code Availability
 
